@@ -9,4 +9,4 @@ let multiplicação = x * y;
 
 //Saída 
 console.log("O valor multiplicação:", multiplicação);
-alert("O valore da multiplicação  é:" + multiplicação);
+alert("O valor da multiplicação  é:" + multiplicação);
